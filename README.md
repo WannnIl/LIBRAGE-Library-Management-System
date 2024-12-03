@@ -1,4 +1,4 @@
-# INDIVIDUAL PROJECT 5: Library Management
+# INDIVIDUAL PROJECT 5: Library Management System
 
 ## Overview
 Sistem manajemen perpustakaan digital yang dirancang untuk meningkatkan efisiensi pengelolaan koleksi buku dan transaksi peminjaman. Sistem ini mendukung berbagai peran pengguna: **Admin**, **Pegawai Perpustakaan**, **Mahasiswa**, dan **Guest**, masing-masing dengan hak akses yang spesifik. Dilengkapi dengan fitur opsional seperti sistem notifikasi, denda, reservasi, rekomendasi buku, dan pelaporan analitik.
